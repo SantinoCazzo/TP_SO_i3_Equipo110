@@ -3,4 +3,18 @@ b- Si
 c- git merge aminiano
    git status
    git push
+d-No, los datos hay que volver a actualizarlos.
+e-No hubieron problemas al hacer el merge.
+f-git branch -a . Para ver las ramas y en cual estamos parados.
+git checkout Nombre-de-la-rama"
+nano txt. Ingresar los datos.
+git add .
+git commit -m "commit"
+git push
+g-git branch -a . Para ver las ramas y en cual estamos parados.
+git checkout Nombre-de-la-rama"
+nano txt. Ingresar los datos.
+git add .
+git commit -m "commit"
+git push
 
