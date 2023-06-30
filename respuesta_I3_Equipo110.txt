@@ -1,0 +1,6 @@
+a- El master queda completo, despues de hacer el merge de cada rama.
+b- Si
+c- git merge aminiano
+   git status
+   git push
+
